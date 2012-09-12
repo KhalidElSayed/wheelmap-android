@@ -93,7 +93,7 @@
       <groupId>com.github.handmark.pulltorefresh</groupId>
       <artifactId>pulltorefresh-library</artifactId>
       <type>apklib</type>
-      <version>1.2.8</version>
+      <version>1.4.0</version>
     </dependency>
 	<dependency>
     	<groupId>com.actionbarsherlock</groupId>
